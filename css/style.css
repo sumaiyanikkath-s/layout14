@@ -1,0 +1,257 @@
+.header .wrapper
+{
+width:80%;
+margin:auto;
+}
+.banner .wrapper
+{
+width:80%;
+margin:auto;
+}
+.services .wrapper
+{
+width:80%;
+margin:auto;
+}
+.portfolio .wrapper
+{
+width:100%;
+margin:auto;
+}
+.team .wrapper
+{
+width:80%;
+margin:auto;
+}
+.contact .wrapper
+{
+width:80%;
+margin:auto;
+}
+.copyright .wrapper
+{
+width:80%;
+margin:auto;
+}
+.header
+{
+	background-color:MediumPurple;
+	height:71px;
+}
+.header-fc
+{ 
+	
+	display:flex;
+	justify-content:space-between;
+}
+.header .header-fc .header-logo
+{
+	background-color:plum;
+	width:10%;
+	height:40px;
+	align-items:left;
+	margin-top:15px;
+}
+.header .header-fc .header-navi
+{
+	background-color:plum;
+	width:40%;
+	height:40px;
+	align-items:center;
+	margin-top:15px;
+}
+.banner
+{
+	background-color:darkturquoise;
+	height:618px;
+}
+.banner .banner-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+	flex-direction:row;
+}
+.banner .banner-fc .texta
+{
+	background-color:fuchsia;
+	height:112px;
+	width:60%;
+	text-align:center;
+	margin-top:130px;
+}
+.banner .banner-fc .boxa
+{
+	background-color:greenyellow;
+	height:67px;
+	width:45%;
+	margin-top:50px;
+}
+.banner .banner-fc .boxb
+{
+	background-color:greenyellow;
+	height:67px;
+	width:15%;
+	margin-top:50px;
+}
+.services
+{
+	height:454px;
+	background-color:yellow;
+}
+.services .services-fc
+{
+	flex-wrap:wrap;
+	display:flex;
+	justify-content:space-evenly;
+	flex-direction:row;
+	text-align:center;
+}
+.services .services-fc .boxa
+{
+	height:250px;
+	width:30%;
+	background-color:white;
+	margin-top:100px;
+}
+.services .services-fc .boxb
+{
+	height:250px;
+	width:30%;
+	background-color:white;
+	margin-top:100px;
+}
+.services .services-fc .boxc
+{
+	height:250px;
+	width:30%;
+	margin-top:100px;
+	background-color:white;
+}
+.portfolio
+{
+	background-color:MediumPurple;
+	height:1440px;
+}
+.portfolio .portfolio-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	flex-wrap:wrap;
+	text-align:center;
+}
+.portfolio .portfolio-fc .boxa
+{
+	width:50%;
+	height:480px;
+	background-color:white;
+}
+.portfolio .portfolio-fc .boxb
+{
+	background-color:blue;
+	width:50%;
+	height:480px;
+}
+.portfolio .portfolio-fc .boxc
+{
+	background-color:blue;
+	width:50%;
+	height:480px;
+}
+.portfolio .portfolio-fc .boxd
+{
+	width:50%;
+	height:480px;
+	background-color:white;
+}
+.portfolio .portfolio-fc .boxe
+{
+	background-color:white;
+	width:50%;
+	height:480px;
+}
+.portfolio .portfolio-fc .boxf
+{
+	background-color:blue;
+	width:50%;
+	height:480px;
+}
+.team
+{
+	background-color:plum;
+	height:624px;
+}
+.team .team-fc
+{
+	flex-wrap:wrap;
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	align-items:center;
+}
+.team .team-fc .text
+{
+	width:100%;
+	margin-top:100px;
+	text-align:center;
+}
+.team .team-fc .boxa
+{
+	height:293px;
+	width:30%;
+	margin-top:100px;
+	background-color:blue;
+}
+.team .team-fc .boxb
+{
+	height:293px;
+	width:30%;
+	margin-top:100px;
+	background-color:blue;
+}
+.team .team-fc .boxc
+{
+	height:293px;
+	width:30%;
+	margin-top:100px;
+	background-color:blue;
+}
+.teama
+{
+	background-color:red;
+	height:352px;
+}
+.teama .teama-fc 
+{
+	flex-wrap:wrap;
+	display:flex;
+	justify-content:space-evenly;
+	flex-direction:row;
+	align-items:center;
+}
+.teama .teama-fc .text
+{
+	width:100%;
+	text-align:center;
+	margin-top:80px;
+}
+.teama .teama-fc .boxa
+{
+	height:66px;
+	width:45%;
+	margin-top:100px;
+	background-color:blue;
+}
+.teama .teama-fc .boxb
+{
+	height:66px;
+	width:14%;
+	margin-top:100px;
+	background-color:blue;	
+}
+.copyright
+{
+	background-color:lightblue;
+	height:223px;
+}
